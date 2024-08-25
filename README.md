@@ -1,6 +1,6 @@
 # RR_Project_Wine_Analysis
 
-# Project Overview
+## Project Overview
 
 The goal of this project is to reproduce the analysis of the red wine dataset originally performed using R, but in Python. This project aims to validate and explore the insights gained from the original analysis while adapting the code and methods to Python. The focus of this work is not on the accuracy of the analytical methods themselves, but rather on the reproducibility, transparency, and documentation of the process.
 
@@ -18,6 +18,6 @@ Comparison
 
 My analysis agrees with previuos analysis. Except for:
 
-1. my citric acid distribution is a bit different which can happen due to different bin length. 
+1. My citric acid distribution is a bit different which can happen due to different bin length. 
 
 2. My m5 model explains a slightly more variance which may be due to internal randomization of the algorithm.
