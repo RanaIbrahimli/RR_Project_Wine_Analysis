@@ -10,11 +10,11 @@ To run the notebook successfully, please ensure that the following Python librar
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 
-Results:
+### Results
 
 In this analysis, I faced challenges in confidently predicting wine quality, particularly for 'Good' and 'Bad' wines, due to the dataset's concentration around 'Average' quality. A more comprehensive dataset would improve model accuracy. Initially, I suspected data issues when noticing some wines lacked citric acid, but further research clarified that citric acid is sometimes added to enhance acidity. I found that alcohol percentage, sulphate, and acid concentrations were key factors influencing wine quality. Notably, I encountered Simpson’s Paradox when volatile acids appeared to increase pH with acidity, revealing complex relationships between variables. For future studies, including wine rankings by multiple tasters could offer additional insights, considering human opinions in the analysis.
 
-Comparison
+### Comparison
 
 My analysis agrees with previuos analysis. Except for:
 
