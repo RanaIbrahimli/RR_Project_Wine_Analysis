@@ -1,6 +1,7 @@
 # RR_Project_Wine_Analysis
 
-Project Overview
+# Project Overview
+
 The goal of this project is to reproduce the analysis of the red wine dataset originally performed using R, but in Python. This project aims to validate and explore the insights gained from the original analysis while adapting the code and methods to Python. The focus of this work is not on the accuracy of the analytical methods themselves, but rather on the reproducibility, transparency, and documentation of the process.
 
 The original analysis can be found https://www.kaggle.com/code/sagarnildass/red-wine-analysis-by-r/report on Kaggle. This project replicates and enhances that work within a Python environment.
